@@ -8,7 +8,6 @@ while Savlat:
         print(a + b)
         fr = input("Vill du försetta?")
         if fr == " Yes":
-
             continue
         else:
             break
